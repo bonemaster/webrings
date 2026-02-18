@@ -1,0 +1,104 @@
+{
+  "name" : "Traveller Webring Example",
+  "owner" : "Jeff Brissette",
+  "contact" : "kd7jny@gmail.com",
+  "logo" : "travellerwebring.gif",
+  "description" : "The Traveller webring is a collection fo websites dedicated to the pencil and paper RPG known as Traveller. Please feel free to contact the webring owner to see about joining.",
+  "sites" : [
+  {
+    "name": "TEST",
+    "url": "http://www.sdf.org",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "TEST 2",
+    "url": "http://www.bluesunconsulting.com",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://example.org/#public",
+    "url": "https://example.org/#public",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://example.net/",
+    "url": "https://example.net/",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://coordinated.example.com/scientific",
+    "url": "https://coordinated.example.com/scientific",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "http://example.org/sleep",
+    "url": "http://example.org/sleep",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://wheel.example.com/guess.html",
+    "url": "https://wheel.example.com/guess.html",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "http://fascinated.example.com/",
+    "url": "http://fascinated.example.com/",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://wheel.example.com/guess.html",
+    "url": "https://wheel.example.com/guess.html",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://example.com/servant",
+    "url": "https://example.com/servant",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://example.com/nail/partner.html#badge",
+    "url": "https://example.com/nail/partner.html#badge",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://www.example.com/truthful/second-hand.html?phone=natural",
+    "url": "https://www.example.com/truthful/second-hand.html?phone=natural",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://sleet.example.com/testy/obese",
+    "url": "https://sleet.example.com/testy/obese",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://naive.example.com/smart?difficult=worried&victorious=view",
+    "url": "https://naive.example.com/smart?difficult=worried&victorious=view",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "http://ill-fated.example.com/?hunt=heal&spill=tame",
+    "url": "http://ill-fated.example.com/?hunt=heal&spill=tame",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://copy.example.com/",
+    "url": "https://copy.example.com/",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://buzz.example.com/",
+    "url": "https://buzz.example.com/",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://www.example.com/grouchy.php",
+    "url": "https://www.example.com/grouchy.php",
+    "owner": "Fred Jones"
+  },
+  {
+    "name": "https://www.example.com/electric/psychedelic.html",
+    "url": "https://www.example.com/electric/psychedelic.html",
+    "owner": "Fred Jones"
+  }
+  ]
+}
